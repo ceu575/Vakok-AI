@@ -1,0 +1,7 @@
+{
+  "name": "Chat AI Vakok",
+  "description": "Chat application with Gemini, supporting text, camera, and file inputs, with a focus on Hakha Chin language.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
